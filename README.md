@@ -1,2 +1,2 @@
 # StringToDataTable
-Convertendo String para DataTable usando C# | Convert String to DataTable using C#
+Convertendo String para DataTable usando C# | Converting String to DataTable using C#
